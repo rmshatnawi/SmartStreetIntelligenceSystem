@@ -1,0 +1,22 @@
+﻿# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Flutter
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# Firebase / Node
+**/node_modules/
+**/.firebase/
+**/firebase-debug.log
+**/.runtimeconfig.json
+
+# Python
+**/__pycache__/
+**/*.pyc
+.venv/
